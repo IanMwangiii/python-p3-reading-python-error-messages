@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-poor_syntax = 2 * #
+hello_world = "Hello, world!"
+
+print(hello_world)
